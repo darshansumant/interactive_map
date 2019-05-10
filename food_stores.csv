@@ -1,0 +1,589 @@
+STORE_TYPE,STORE_NAME,ADDRESS_LINE1,CITY,STATE,ZIP,longitude,latitude,NBHD_NAME
+Dollar Store,Dollar Tree,5190 Federal Blvd,Denver,CO,80221,-105.024782,39.790432,Chaffee Park
+Dollar Store,Dollars City,4855 Pecos St,Denver,CO,80221,-105.007082,39.784801,Chaffee Park
+Small Grocery Store,Leever's / Save A Lot,4860 Pecos St,Denver,CO,80221,-105.005719,39.784969,Chaffee Park
+Convenience Store,7-Eleven,3810 N FEDERAL BLVD,Denver,CO,,-105.024892,39.769585,Sunnyside
+Convenience Store,For Every Day Store,4595 Pecos St,Denver,CO,80211,-105.006843,39.779893,Sunnyside
+Convenience Store,Friendly Market,1700 W 40th Ave,Denver,CO,80211,-105.006628,39.771625,Sunnyside
+Convenience Store,Sunnyside Drug,4600 N LIPAN ST,Denver,CO,,-105.001499,39.780398,Sunnyside
+Convenience Store With Gas,7-Eleven,1301 W 38TH AVE,Denver,CO,,-105.00218,39.769714,Sunnyside
+Convenience Store With Gas,7-Eleven,1595 W 47TH AVE,Denver,CO,,-105.00594,39.782336,Sunnyside
+Small Grocery Store,Tejon Market,4385 Tejon St,Denver,CO,80211,-105.011573,39.776362,Sunnyside
+Specialty Food Store,Canino's Sausage Co Inc,4414 Jason St,Denver,CO,80211,-104.999019,39.776901,Sunnyside
+Closed Specialty Food Store,Sunnyside Market,4401 Tejon St,Denver,CO,80211,-105.011508,39.776794,Sunnyside
+Convenience Store,Salwan Market,2215 W 32nd Ave,Denver,CO,80211,-105.01316,39.762273,Highland
+Convenience Store With Gas,7-Eleven,2500 W 38TH AVE,Denver,CO,,-105.017813,39.769035,Highland
+Convenience Store With Gas,Conoco,2727 N ZUNI ST,Denver,CO,,-105.016183,39.756716,Highland
+Small Grocery Store,Leever's / Save A Lot,2630 W 38th Ave,Denver,CO,80211,-105.019624,39.768842,Highland
+Small Grocery Store,Variety Supermarket,3500 Mariposa St,Denver,CO,80211,-105.002814,39.765758,Highland
+Specialty Food Store,Rosales Bakery,2636 W 32ND AVE,Denver,CO,,-105.019742,39.761908,Highland
+Specialty Food Store,Savory Spice Shop,1537 Platte St,Denver,CO,80202,-105.008749,39.757215,Highland
+Convenience Store With Gas,Safeway Fuel,2995 W 26TH AVE,Denver,CO,,-105.024379,39.755437,Jefferson Park
+Convenience Store With Gas,Speer Phillips 66,2757 N SPEER BLVD,Denver,CO,,-105.016296,39.756252,Jefferson Park
+Supermarket,Safeway,2660 Federal Blvd,Denver,CO,80211,-105.024379,39.755435,Jefferson Park
+Convenience Store,Marwa Market,4330 W COLFAX AVE,Denver,CO,,-105.043181,39.740069,West Colfax
+Pharmacy,Walgreen,5151 W COLFAX AVE,Denver,CO,,-105.052642,39.740784,West Colfax
+Convenience Store,7-Eleven,3190 W 38TH AVE,Denver,CO,,-105.029658,39.769135,West Highland
+Convenience Store With Gas,Circle K,3600 W 38TH AVE,Denver,CO,,-105.034976,39.769285,West Highland
+Convenience Store With Gas,Conoco,4380 W 38TH AVE,Denver,CO,,-105.043706,39.76913,West Highland
+Dollar Store,Family Dollar,3125 Federal Blvd,Denver,CO,80211,-105.025716,39.761347,West Highland
+Pharmacy,Botanica Yemaya,3773 Federal Blvd,Denver,CO,80211,-105.025664,39.768971,West Highland
+Pharmacy,Walgreen,2975 N FEDERAL BLVD,Denver,CO,,-105.025685,39.760088,West Highland
+Specialty Food Store,Gluten Free Goods,2990 Vrain St,Denver,CO,80212,-105.046167,39.760044,West Highland
+Specialty Food Store,Happy Cakes,3434 W 32ND AVE,Denver,CO,,-105.033132,39.761888,West Highland
+Specialty Food Store,Seafood Landing,3457 W 32nd Ave,Denver,CO,80211,-105.03384,39.762365,West Highland
+Specialty Food Store,St Kilian's Cheese Shop,3211 Lowell Blvd,Denver,CO,80211,-105.034947,39.762367,West Highland
+Convenience Store,7-Eleven,2609 N FEDERAL BLVD,Denver,CO,,-105.025683,39.75511,Sloan Lake
+Convenience Store,7-Eleven,5195 W BYRON PL,Denver,CO,,-105.052879,39.7533,Sloan Lake
+Convenience Store,Mile High Convenience,2105 N FEDERAL BLVD,Denver,CO,,-105.025589,39.74915,Sloan Lake
+Convenience Store With Gas,Diamond Shamrock,1945 N FEDERAL BLVD,Denver,CO,,-105.025661,39.747332,Sloan Lake
+Closed Small Grocery Store,Los Barron,3006 W 23rd Ave,Denver,CO,80211,-105.025578,39.751087,Sloan Lake
+Convenience Store,7-Eleven,4406 N SHERIDAN BLVD,Denver,CO,,-105.052878,39.776923,Berkeley
+Convenience Store,Tennyson Sun Mart,4400 W 39TH AVE,Denver,CO,,-105.044156,39.770869,Berkeley
+Convenience Store With Gas,1st Stop,3701 W 44TH AVE,Denver,CO,,-105.036113,39.776921,Berkeley
+Convenience Store With Gas,Conoco,4785 N FEDERAL BLVD,Denver,CO,,-105.025622,39.783559,Berkeley
+Convenience Store With Gas,Safeway Fuel,3600 W 44TH AVE,Denver,CO,,-105.03491,39.776458,Berkeley
+Convenience Store With Gas,Valero,4498 N SHERIDAN BLVD,Denver,CO,,-105.05286,39.778095,Berkeley
+Supermarket,Safeway,3800 W 44th Ave,Denver,CO,80211,-105.036935,39.77606,Berkeley
+Specialty Food Store,Belfiore Genuine Italian Sausage,3930 Lowell Blvd,Denver,CO,80211,-105.034272,39.771336,Berkeley
+Convenience Store,Regis Convenience Store,5001 N LOWELL BLVD,Denver,CO,,-105.035068,39.787585,Regis
+Small Grocery Store,Longmont Meats,5115 N FEDERAL BLVD,Denver,CO,,-105.026604,39.789909,Regis
+Convenience Store With Gas,7-Eleven,4708 N WASHINGTON ST,Denver,CO,,-104.978175,39.782048,Globeville
+Convenience Store With Gas,C Store,4500 N WASHINGTON ST,Denver,CO,,-104.9787,39.778773,Globeville
+Convenience Store With Gas,Western Convenience,5050 Washington St,Denver,CO,80216,-104.977803,39.788465,Globeville
+Small Grocery Store,Panaderia Emmanuel,500 E 45TH AVE,Denver,CO,,-104.980979,39.778179,Globeville
+Specialty Food Store,Custom Superfresh Poultry,810 E 50th Ave,Denver,CO,80216,-104.975907,39.787518,Globeville
+Convenience Store,El Duranguense Groceries,4701 N Brighton Blvd,Denver,CO,,-104.966802,39.78203,Elyria Swansea
+Convenience Store,El Tepetate Market,4555 Thompson Ct,Denver,CO,80216,-104.955605,39.779865,Elyria Swansea
+Convenience Store,Jerry's Round The Corner,4301 CLAYTON ST,Denver,CO,,-104.954467,39.776557,Elyria Swansea
+Convenience Store,Stop N Shop,2331 E 46th Ave,Denver,CO,80216,-104.958928,39.780307,Elyria Swansea
+Convenience Store With Gas,7-Eleven,1670 E 47TH AVE,Denver,CO,,-104.967009,39.781674,Elyria Swansea
+Convenience Store With Gas,7-Eleven,3200 E 45TH AVE,Denver,CO,,-104.949351,39.778771,Elyria Swansea
+Convenience Store With Gas,Conoco,4001 N COLORADO BLVD,Denver,CO,,-104.941259,39.77324,Elyria Swansea
+Convenience Store With Gas,Pilot Travel Center,4640 N STEELE ST,Denver,CO,,-104.948729,39.781464,Elyria Swansea
+Small Grocery Store,Singles Market Place,3950 Wynkoop St,Denver,CO,80216,-104.972962,39.774078,Elyria Swansea
+Specialty Food Store,Growhaus,4751 York St,Denver,CO,80216,-104.959867,39.782663,Elyria Swansea
+Specialty Food Store,Swansea Corner Store,3075 E 51st Ave,Denver,CO,80216,-104.951492,39.789284,Elyria Swansea
+Superette,Panaderia Y Restaurante Sanchez,2630 E 46TH AVE,Denver,CO,,-104.9549,39.779655,Elyria Swansea
+Convenience Store,I Love It Market,900 Auraria Parkway,Denver,CO,,-105.004669,39.745717,Auraria
+Convenience Store With Gas,Conoco/Circle K,1500 7th St.,Denver,CO,,-105.010443,39.745535,Auraria
+Convenience Store,7-Eleven,2341 E COLFAX AVE,Denver,CO,,-104.959055,39.74033,City Park
+Convenience Store,7-Eleven,3177 E COLFAX AVE,Denver,CO,,-104.95041,39.740417,City Park
+Convenience Store With Gas,Conoco/Circle K,1501 N COLORADO BLVD,Denver,CO,,-104.941082,39.740546,City Park
+Small Grocery Store,Sprouts Farmers Market,3625 E Colfax Ave,Denver,CO,80206,-104.945042,39.740559,City Park
+Convenience Store,7-Eleven,3400 N YORK ST,Denver,CO,,-104.959429,39.764762,Clayton
+Convenience Store,Sahara Mini Market,2521 Bruce Randolph Ave,Denver,CO,80205,-104.956798,39.764601,Clayton
+Closed Convenience Store,Tommy's Market,3119 Bruce Randolph Ave,Denver,CO,80205,-104.950766,39.764627,Clayton
+Convenience Store With Gas,7-Eleven,3990 E 35TH AVE,Denver,CO,,-104.940962,39.765392,Clayton
+Pharmacy,Walgreen,3555 N COLORADO BLVD,Denver,CO,,-104.940927,39.766607,Clayton
+Small Grocery Store,A Mart Store,3770 E 40TH AVE,Denver,CO,,-104.943475,39.771949,Clayton
+Convenience Store,Ben's Super Market,2301 E 28th Ave,Denver,CO,80205,-104.959544,39.757175,Skyland
+Small Grocery Store,Frank's Food Mart,2800 Madison St,Denver,CO,,-104.946272,39.757102,Skyland
+Convenience Store,La Tienda Garcia,1620 E Bruce Randolph Ave,Denver,CO,,-104.967703,39.764341,Cole
+Convenience Store,Novedades Sanches,1626 BRUCE RANDOLPH AVE,Denver,CO,,-104.967499,39.764372,Cole
+Convenience Store,York Market,3349 York St,Denver,CO,80205,-104.960098,39.764255,Cole
+Closed Convenience Store,Sam's Grocery - Star Sam Grocery,1800 E 33rd Ave,Denver,CO,80205,-104.965745,39.763116,Cole
+Convenience Store With Gas,K & G Store,3550 N DOWNING ST,Denver,CO,,-104.972978,39.766207,Cole
+Dollar Store,Dollar Tree,3360 Downing St,Denver,CO,80205,-104.972682,39.763938,Cole
+Small Grocery Store,Abarrotes Le Herradura,3401 N FRANKLIN ST,Denver,CO,,-104.968654,39.764661,Cole
+Small Grocery Store,Downing Supermarket,3340 Downing St,Denver,CO,80205,-104.973289,39.764063,Cole
+Superette,Carniceria Jalisco,3300 Downing St,Denver,CO,80205,-104.972956,39.763508,Cole
+Convenience Store,7-Eleven,1800 N DOWNING ST,Denver,CO,,-104.972977,39.745014,City Park West
+Convenience Store,7-Eleven,1975 E COLFAX AVE,Denver,CO,,-104.963824,39.740284,City Park West
+Closed Convenience Store,Namaste International Grcrs,1201 E Colfax Ave,Denver,CO,80218,-104.971789,39.740388,City Park West
+Convenience Store With Gas,Sinclair,1895 E COLFAX AVE,Denver,CO,,-104.965101,39.740322,City Park West
+Convenience Store,Gem Supermarket,2958 Downing St,Denver,CO,80205,-104.972996,39.759146,Whittier
+Convenience Store,Lincoln Market,1704 E 25th Ave,Denver,CO,80205,-104.966959,39.753067,Whittier
+Convenience Store,Ma Convenience,1736 E 31ST AVE,Denver,CO,,-104.966316,39.76056,Whittier
+Convenience Store,Papa's Corner Market,1527 E 29th Ave,Denver,CO,80205,-104.968825,39.758477,Whittier
+Convenience Store,7-Eleven,1550 COURT PL,Denver,CO,,-104.989095,39.741721,CBD
+Convenience Store,7-Eleven,1726 CHAMPA ST,Denver,CO,,-104.992022,39.747771,CBD
+Convenience Store,7-Eleven,401 16TH ST,Denver,CO,,-104.989584,39.743376,CBD
+Convenience Store,7-Eleven,1800 LAWRENCE ST,Denver,CO,,-104.99371,39.750461,CBD
+Convenience Store,7-Eleven,621 17TH ST,Denver,CO,,-104.989758,39.746194,CBD
+Convenience Store,7-Eleven,820 16TH ST,Denver,CO,,-104.993922,39.746143,CBD
+Convenience Store,Russell's,1050 17TH ST,Denver,CO,,-104.994687,39.74809,CBD
+Convenience Store,Russell's,201 W COLFAX AVE,Denver,CO,,-104.990262,39.740486,CBD
+Convenience Store,Russell's,707 17th St,Denver,CO,,-104.990622,39.747101,CBD
+Convenience Store,Russell's,600 17TH ST,Denver,CO,,-104.990386,39.745491,CBD
+Convenience Store,Russell's,999 18TH ST,Denver,CO,,-104.99134,39.749204,CBD
+Dollar Store,Family Dollar,990 Federal Blvd,Denver,CO,80204,-105.024703,39.732751,Sun Valley
+Dollar Store,N J Trading,830 Federal Blvd,Denver,CO,80204,-105.024783,39.729954,Sun Valley
+Specialty Food Store,Pasteles Espinosa,2970 W. Barberry Pl.,Denver,CO,,-105.024107,39.730089,Sun Valley
+Convenience Store,Russell's,1625 N BROADWAY,Denver,CO,,-104.987861,39.742529,CBD
+Convenience Store,Russell's,1801 CALIFORNIA ST,Denver,CO,,-104.989585,39.747508,CBD
+Closed Convenience Store,Pushupati Corner Store,327 14TH ST,Denver,CO,,-104.991535,39.741172,CBD
+Pharmacy,Rite Aid,750 16TH ST,Denver,CO,,-104.993106,39.745407,CBD
+Small Grocery Store,Cook's Fresh Market,1600 GLENARM PL STE 120,Denver,CO,,-104.989781,39.744014,CBD
+Small Grocery Store,Walgreen,801 16TH ST,Denver,CO,,-104.993056,39.746037,CBD
+Convenience Store,7-Eleven,1755 Blake St Ste 100,Denver,CO,,-104.997217,39.752063,Union Station
+Convenience Store,Market Snacks,1601 MARKET ST,Denver,CO,,-104.998179,39.750697,Union Station
+Convenience Store,Pacific Mercantile Co,1925 Lawrence St,Denver,CO,80202,-104.992754,39.751698,Union Station
+Convenience Store,Russell's,1200 17TH ST,Denver,CO,,-104.99591,39.74921,Union Station
+Discount Merchandise Market,Sunlite Convenience Store,1875 Lawrence St # 100,Denver,CO,80202,-104.993522,39.75126,Union Station
+Supermarket,King Soopers,1950 Chestnut St,Denver,CO,,-104.998956,39.757235,Union Station
+Specialty Food Store,Evoo Marketplace,1338 15th St,Denver,CO,80202,-104.999479,39.748768,Union Station
+Specialty Food Store,Smith & Truslow,1444 Wazee St,Denver,CO,80202,-105.001562,39.749801,Union Station
+Convenience Store,Champa Food Store,2960 CHAMPA ST,Denver,CO,,-104.977033,39.759424,Five Points
+Convenience Store,Champa Food Store,2960 Champa St,Denver,CO,80205,-104.977033,39.759424,Five Points
+Convenience Store,Five Points Market,2721 Welton St,Denver,CO,80205,-104.977683,39.755231,Five Points
+Convenience Store,Front Range Markets,1415 Park Ave W,Denver,CO,80205,-104.989862,39.756794,Five Points
+Convenience Store,Hello Mini Mart,2660 ARAPAHOE ST,Denver,CO,,-104.982364,39.757936,Five Points
+Convenience Store,Town Grocery,2815 Downing St,Denver,CO,80205,-104.97361,39.757411,Five Points
+Convenience Store With Gas,Conoco,3083 N BRIGHTON BLVD,Denver,CO,,-104.984551,39.766533,Five Points
+Small Grocery Store,Mondo Market,3350 Brighton Blvd,Denver,CO,80216,-104.979796,39.76874,Five Points
+Supermarket,Safeway,757 E 20th Ave,Denver,CO,80205,-104.977536,39.748966,Five Points
+Specialty Food Store,Amerigo Delicatus,2449 LARIMER ST,Denver,CO,,-104.987022,39.757512,Five Points
+Specialty Food Store,Larimer St Market,2063 Larimer St,Denver,CO,80205,-104.991637,39.753889,Five Points
+Specialty Food Store,Meathead,3350 N BRIGHTON BLVD,Denver,CO,,-104.979796,39.76874,Five Points
+Specialty Food Store,Tres Rios Agricultural Co-Op,214 Denargo Market,Denver,CO,80216,-104.989948,39.761875,Five Points
+Convenience Store,Holly Food Mart,5538 E 33RD AVE,Denver,CO,,-104.923317,39.763644,Northeast Park Hill
+Convenience Store With Gas,Conoco Mile High,4140 N Grape St,Denver,CO,,-104.924328,39.774412,Northeast Park Hill
+Convenience Store With Gas,Diamond Shamrock/Corner Store,3490 N COLORADO BLVD,Denver,CO,,-104.94018,39.765312,Northeast Park Hill
+Convenience Store With Gas,Malmart #1,3400 N COLORADO BLVD,Denver,CO,,-104.940173,39.764784,Northeast Park Hill
+Small Grocery Store,Mountain Fresh Market,3885 Forest St,Denver,CO,80207,-104.927164,39.770788,Northeast Park Hill
+Convenience Store,Fairfax Market,2835 Fairfax St,Denver,CO,80207,-104.928412,39.757228,North Park Hill
+Dollar Store,Family Dollar,2848 Colorado Blvd,Denver,CO,80207,-104.940219,39.757334,North Park Hill
+Small Grocery Store,Spinelli,4621 E 23RD AVE,Denver,CO,,-104.933304,39.751181,North Park Hill
+Convenience Store,Oneida Food Mart,2201 N ONEIDA ST,Denver,CO,,-104.908546,39.750418,South Park Hill
+Convenience Store With Gas,7-Eleven,1580 N COLORADO BLVD,Denver,CO,,-104.940124,39.741161,South Park Hill
+Convenience Store With Gas,Diamond Shamrock,5455 E COLFAX AVE,Denver,CO,,-104.923913,39.740477,South Park Hill
+Convenience Store With Gas,East Colfax BP,1515 N QUEBEC ST,Denver,CO,,-104.903772,39.7405,South Park Hill
+Convenience Store With Gas,Twin Star Energy,1504 N COLORADO BLVD,Denver,CO,,-104.939843,39.740685,South Park Hill
+Dollar Store,Dollar Tree,4923 E Colfax Ave,Denver,CO,80220,-104.930388,39.740659,South Park Hill
+Specialty Food Store,Ethiopian Culture Mesob Market,1510 KEARNEY ST,Denver,CO,,-104.91736,39.7406,South Park Hill
+Convenience Store,7-Eleven,7675 E COLFAX AVE,Denver,CO,,-104.899093,39.740476,East Colfax
+Convenience Store,Grocery Store,8105 E Colfax Ave,Denver,CO,80220,-104.893728,39.740323,East Colfax
+Convenience Store With Gas,East Colfax Sinclair,8275 E COLFAX AVE,Denver,CO,,-104.892063,39.740451,East Colfax
+Convenience Store With Gas,7-Eleven,8755 E Montview Blvd,Denver,CO,,-104.886451,39.747738,Stapleton
+Convenience Store With Gas,7-Eleven,3992 N Havana St,Denver,CO,,-104.865153,39.77248,Stapleton
+Convenience Store With Gas,Conoco,3895 N PEORIA ST,Denver,CO,,-104.847512,39.770745,Stapleton
+Convenience Store With Gas,Diamond Shamrock,3860 N PEORIA ST,Denver,CO,,-104.846578,39.770191,Stapleton
+Pharmacy,Walgreen,7311 E 29TH DR,Denver,CO,,-104.902524,39.759686,Stapleton
+Supercenter,Target,7930 Northfield Blvd,Denver,CO,80238,-104.894589,39.78544,Stapleton
+Supermarket,King Soopers,2810 Quebec St,Denver,CO,80207,-104.901847,39.7566,Stapleton
+Specialty Food Store,Euro Cafe and Market,8270 E NORTHFIELD BLVD,Denver,CO,,-104.892648,39.779735,Stapleton
+Warehouse Club Store,Sams Club,7805 E 35th Ave,Denver,CO,80238,-104.898098,39.76627,Stapleton
+Convenience Store,7-Eleven,4701 N PEORIA ST,Denver,CO,,-104.847803,39.783106,Montbello
+Convenience Store With Gas,7-Eleven,4500 N PEORIA ST,Denver,CO,,-104.846229,39.778576,Montbello
+Convenience Store With Gas,7-Eleven,12880 E ALBROOK DR,Denver,CO,,-104.842412,39.780539,Montbello
+Convenience Store With Gas,Conoco,4495 N PEORIA ST,Denver,CO,,-104.84759,39.777675,Montbello
+Convenience Store With Gas,Shell,4650 N PEORIA ST,Denver,CO,,-104.846568,39.78075,Montbello
+Dollar Store,Family Dollar,4701 Peoria St # 123,Denver,CO,80239,-104.848191,39.782854,Montbello
+Superette,Chihuahua Carniceria,4660 Peoria St,Denver,CO,,-104.84659365,39.78104095,Montbello
+Convenience Store With Gas,7-Eleven,4709 N Tower Rd,Denver,CO,,-104.77271,39.781967,Gateway - Green Valley Ranch
+Convenience Store With Gas,Circle K,4570 N CHAMBERS RD,Denver,CO,,-104.809036,39.775507,Gateway - Green Valley Ranch
+Convenience Store With Gas,Conoco/Circle K,4400 N CHAMBERS RD,Denver,CO,,-104.808959,39.774682,Gateway - Green Valley Ranch
+Dollar Store,Family Dollar,4775 Yampa St,Denver,CO,80249,-104.774828,39.783079,Gateway - Green Valley Ranch
+Pharmacy,Walgreen,18550 GREEN VALLEY RANCH BLVD,Denver,CO,,-104.770683,39.783433,Gateway - Green Valley Ranch
+Supermarket,King Soopers,18605 Green Valley Ranch,Denver,CO,80249,-104.770029,39.784882,Gateway - Green Valley Ranch
+Convenience Store,Vertical Mile Market,8500 PENA BLVD,Denver,CO,,-104.674044,39.851925,DIA
+Convenience Store With Gas,7-Eleven,7080 N Tower Rd,Denver,CO,,-104.771108,39.825055,DIA
+Convenience Store With Gas,Conoco,7680 PENA BLVD,Denver,CO,,-104.720158,39.836043,DIA
+Convenience Store With Gas,Chambers Gas & Wash,5103 N Chambers Rd,Denver,CO,,-104.810793,39.784306,Montbello
+Convenience Store With Gas,7-Eleven,1000 N. Federal Blvd.,Denver,CO,,-105.024629,39.733242,Sun Valley
+Convenience Store,7-Eleven,5090 N Federal Blvd,Denver,CO,,-105.024785,39.78896,Chaffee Park
+Convenience Store With Gas,Bradley Petroleum,5000 N FEDERAL BLVD,Denver,CO,,-105.02479,39.787728,Chaffee Park
+Convenience Store With Gas,Tanay @ Conoco,4880 N FEDERAL BLVD,Denver,CO,,-105.024623,39.785249,Chaffee Park
+Convenience Store,Florida Avenue Market,4393 W Florida Ave,Denver,CO,80219,-105.043388,39.689749,Mar Lee
+Convenience Store With Gas,7-Eleven,1499 S FEDERAL BLVD,Denver,CO,,-105.025414,39.689812,Mar Lee
+Dollar Store,Dollar Depot,4263 W Florida Ave,Denver,CO,80219,-105.042022,39.690468,Mar Lee
+Dollar Store,Dollar Tree,4385 W Florida Ave,Denver,CO,80219,-105.044096,39.690566,Mar Lee
+Small Grocery Store,Ana's Meat Market,1411 S Federal Blvd,Denver,CO,80219,-105.026008,39.690768,Mar Lee
+Small Grocery Store,Leever's / Save A Lot,4255 W Florida Ave,Denver,CO,80219,-105.042829,39.690414,Mar Lee
+Supermarket,King Soopers,5125 W Florida Ave,Denver,CO,80219,-105.051947,39.690469,Mar Lee
+Specialty Food Store,Anastasia's Desserts,1350 S SHERIDAN BLVD,Denver,CO,,-105.052872,39.691935,Mar Lee
+Specialty Food Store,Indus Imports,1225 S Federal Blvd,Denver,CO,80219,-105.025364,39.694452,Mar Lee
+Specialty Food Store,Tortilleria Victoria,4365 W Florida Ave,Denver,CO,80219,-105.043893,39.690662,Mar Lee
+Convenience Store,Gloria Abbarrotes Market,4845 Morrison Rd,Denver,CO,80219,-105.049119,39.699912,Westwood
+Convenience Store,Kentucky Supermarket,3145 W Kentucky Ave,Denver,CO,80219,-105.027231,39.700677,Westwood
+Convenience Store,Tienda de Sandoval,3937 Morrison Rd,Denver,CO,80219,-105.039412,39.706565,Westwood
+Convenience Store With Gas,Conoco,3434 W ALAMEDA AVE,Denver,CO,,-105.032115,39.710646,Westwood
+Convenience Store With Gas,Sam's Corner Store,883 S FEDERAL BLVD,Denver,CO,,-105.025475,39.700788,Westwood
+Convenience Store With Gas,Sheridan Jiffy Stop,898 S SHERIDAN BLVD,Denver,CO,,-105.052908,39.700739,Westwood
+Pharmacy,Hong Duc LLC,945 S Federal Blvd # F,Denver,CO,80219,-105.025462,39.699514,Westwood
+Small Grocery Store,Abarrote Angelito Quetzal,3892 Morrison Rd,Denver,CO,,-105.038331,39.70697,Westwood
+Small Grocery Store,Hau Giang Market,1095 S Federal Blvd,Denver,CO,80219,-105.025419,39.696946,Westwood
+Small Grocery Store,Hong Phat Market Inc,1001 S Federal Blvd,Denver,CO,80219,-105.025326,39.698428,Westwood
+Small Grocery Store,L & P Seafood,1055 S FEDERAL BLVD,Denver,CO,,-105.025418,39.697422,Westwood
+Small Grocery Store,Panaderia Contreras,3570 MORRISON RD,Denver,CO,,-105.034675,39.709539,Westwood
+Small Grocery Store,Store Perez,3420 W Alameda Ave,Denver,CO,80219,-105.031631,39.710898,Westwood
+Closed Small Grocery Store,Panaderia Santa Cruz,3548 MORRISON RD,Denver,CO,,-105.034021,39.709989,Westwood
+Closed Supermarket,88 Market,421 S Federal Blvd,Denver,CO,80219,-105.025488,39.709088,Westwood
+Specialty Food Store,Carniceria La Sierra,3154 W Alameda Ave,Denver,CO,80219,-105.02772,39.710908,Westwood
+Specialty Food Store,Indochina Ginseng Co,1045 S Federal Blvd,Denver,CO,80219,-105.025428,39.697586,Westwood
+Specialty Food Store,Vinh Xuong Bakery,375 S FEDERAL BLVD,Denver,CO,80219,-105.025773,39.710081,Westwood
+Convenience Store,Abarrotes Medina,4320 Morrison Rd,Denver,CO,,-105.04305041,39.70335218,Westwood
+Convenience Store,7-Eleven,105 N KNOX CT,Denver,CO,,-105.032839,39.718401,Barnum
+Convenience Store,Quick Stop Food Mart,5 N FEDERAL BLVD,Denver,CO,,-105.025477,39.716752,Barnum
+Small Grocery Store,Mi Pueblo Market,125 Knox Ct,Denver,CO,80219,-105.032838,39.718741,Barnum
+Convenience Store,B Cigarettes & Convenience Store,2910 W JEWELL AVE,Denver,CO,,-105.023993,39.682029,College View - South Platte
+Convenience Store,Mini Market,2960 S FEDERAL BLVD,Denver,CO,,-105.024651,39.662433,College View - South Platte
+Convenience Store With Gas,Barn Store,2804 S FEDERAL BLVD,Denver,CO,,-105.024819,39.665112,College View - South Platte
+Convenience Store,7-Eleven,1850 S SHERIDAN BLVD,Denver,CO,,-105.05256,39.682466,Mar Lee
+Pharmacy,Walgreen,1505 S FEDERAL BLVD,Denver,CO,,-105.025757,39.68907,Mar Lee
+Convenience Store With Gas,Diamond Shamrock,4797 S WADSWORTH WAY,Denver,CO,,-105.087432,39.630572,Marston
+Convenience Store With Gas,Littleton My Mart,4550 S KIPLING ST,Denver,CO,,-105.108905,39.633709,Marston
+Discount Merchandise Market,Big Lots,8100 W Crestline Ave # B5,Denver,CO,80123,-105.087881,39.618222,Marston
+Supercenter,Walmart,7700 W Quincy Ave,Littleton,CO,80123,-105.083055,39.638644,Marston
+Small Grocery Store,Sprouts Farmers Market,8601 W Cross Dr # P4,Littleton,CO,80123,-105.094357,39.615828,Marston
+Warehouse Club Store,Sams Club,4827 S WADSWORTH WAY,,,,-105.08818,39.629528,Marston
+Convenience Store With Gas,7-Eleven,450 N. Federal Blvd.,Denver,CO,,-105.024748,39.723154,Valverde
+Convenience Store With Gas,7-Eleven,2299 W. Alameda Ave.,Denver,CO,,-105.014166,39.711526,Valverde
+Convenience Store With Gas,AB Petroleum,1253 W. Alameda Ave.,Denver,CO,,-105.003044,39.711529,Valverde
+Convenience Store With Gas,Jas Food Mart,412 N. Federal Blvd.,Denver,CO,,-105.024931,39.722337,Valverde
+Convenience Store With Gas,Phillips 66,510 N. Bryant St.,Denver,CO,,-105.018338,39.724105,Valverde
+Specialty Food Store,Tortillas Caseras,110 N. Federal Blvd.,Denver,CO,,-105.024572,39.718659,Valverde
+Convenience Store,Mini Mart,1502 W. Alameda Ave.,Denver,CO,,-105.008871,39.711017,Athmar Park
+Closed Convenience Store,Panaderia Los Leales,506 S. Federal Blvd.,Denver,CO,,-105.02469,39.706998,Athmar Park
+Convenience Store With Gas,1st Stop,1989 W. Mississippi Ave.,Denver,CO,,-105.012305,39.697091,Athmar Park
+Convenience Store With Gas,7-Eleven,890 S. Federal Blvd.,Denver,CO,,-105.024676,39.700612,Athmar Park
+Dollar Store,Family Dollar,1875 W Mississippi Ave,Denver,CO,80223,-105.01093,39.697265,Athmar Park
+Small Grocery Store,Athmar Market,1789 W Mississippi Ave,Denver,CO,80223,-105.008982,39.697067,Athmar Park
+Small Grocery Store,New Saigon Market,1076 S Federal Blvd,Denver,CO,80219,-105.024726,39.697494,Athmar Park
+Supermarket,Pacific Ocean Intl Supermarket,2200 W Alameda Ave # 2b,Denver,CO,80223,-105.01385,39.710074,Athmar Park
+Specialty Food Store,Alpine Sausage Co.,1272 W. Alaska Pl.,Denver,CO,,-105.003363,39.708189,Athmar Park
+Specialty Food Store,Baker's Palace,550 S. Federal Blvd.,Denver,CO,,-105.024689,39.706649,Athmar Park
+Specialty Food Store,La Noria Carniceria Taqueria,1931 W Mississippi Ave,Denver,CO,80223,-105.01173,39.697414,Athmar Park
+Specialty Food Store,New Saigon Bakery & Deli,640 S. Federal Blvd.,Denver,CO,,-105.024691,39.704777,Athmar Park
+Specialty Food Store,Panaderia Castaneda,1925 W. Mississippi Ave.,Denver,CO,,-105.01163,39.697336,Athmar Park
+Specialty Food Store,Vinh Xyong Bakery,2370 W. Alameda Ave.,Denver,CO,,-105.015316,39.710956,Athmar Park
+Superette,Store Perez  1 Carcineria,490 S Federal Blvd,Denver,CO,80219,-105.024692,39.707717,Athmar Park
+Convenience Store With Gas,7-Eleven,567 E LOUISIANA AVE,Denver,CO,,-104.980747,39.693225,Platt Park
+Convenience Store With Gas,Barn Store,1696 S BROADWAY,Denver,CO,,-104.987154,39.686022,Platt Park
+Specialty Food Store,Azucar Sweet Shop & Bakery,1886 S Broadway,Denver,CO,,-104.987197,39.682478,Platt Park
+Convenience Store,7-Eleven,2396 S FEDERAL BLVD,Denver,CO,,-105.024681,39.673642,College View - South Platte
+Convenience Store,7-Eleven,2950 W EVANS AVE,Denver,CO,,-105.023673,39.678231,College View - South Platte
+Convenience Store With Gas,Bradley Petroleum,1121 E ALAMEDA AVE,Denver,CO,,-104.97371,39.711354,Speer
+Dollar Store,Family Dollar,460 Broadway,Denver,CO,80203,-104.987132,39.723507,Speer
+Pharmacy,Walgreen,120 N BROADWAY,Denver,CO,,-104.987212,39.718942,Speer
+Convenience Store With Gas,Conoco West Evans,2110 S FEDERAL BLVD,Denver,CO,,-105.024611,39.678227,College View - South Platte
+Convenience Store With Gas,Diamond Shamrock,2680 S FEDERAL BLVD,Denver,CO,,-105.024686,39.668289,College View - South Platte
+Convenience Store With Gas,United Mart,2098 S FEDERAL BLVD,Denver,CO,,-105.024599,39.679041,College View - South Platte
+Dollar Store,Family Dollar,2792 S Federal Blvd,Denver,CO,80236,-105.024498,39.665958,College View - South Platte
+Small Grocery Store,Campos Market,2135 W EVANS AVE,Denver,CO,,-105.01233,39.678958,College View - South Platte
+Small Grocery Store,Super Carniceria Compare,2796 S Federal Blvd,Denver,CO,80236,-105.024497,39.665889,College View - South Platte
+Specialty Food Store,Las 3 Americas Tortilleria,2170 S FEDERAL BLVD,Denver,CO,,-105.024578,39.677453,College View - South Platte
+Convenience Store,7-Eleven,1450 S Santa Fe Dr,Denver,CO,,-104.991842,39.690383,Overland
+Convenience Store With Gas,7-Eleven,1585 S BROADWAY,Denver,CO,,-104.987919,39.687813,Overland
+Convenience Store With Gas,Barn Store,1201 S BROADWAY,Denver,CO,,-104.987845,39.694497,Overland
+Convenience Store With Gas,Circle K,411 W Florida Ave,Denver,CO,,-104.993027,39.689902,Overland
+Convenience Store With Gas,AA&H Diamond,2360 W. Mississippi Ave.,Denver,CO,,-105.015255,39.696475,Ruby Hill
+Convenience Store With Gas,Florida Gas Station,1498 S FEDERAL BLVD,Denver,CO,,-105.024597,39.689751,Ruby Hill
+Convenience Store With Gas,Texaco (Super Save),1506 S FEDERAL BLVD,Denver,CO,,-105.024568,39.68924,Ruby Hill
+Dollar Store,Family Dollar,1320 S Federal Blvd,Denver,CO,80219,-105.024278,39.692229,Ruby Hill
+Small Grocery Store,Store Perez,1798 W Mississippi Ave,Denver,CO,80223,-105.008432,39.69646,Ruby Hill
+Small Grocery Store,Lowes Mercado,1320 S Federal Blvd,Denver,CO,80219,-105.024279,39.692228,Ruby Hill
+Specialty Food Store,Tortilleria Colorado,2050 W. Mississippi Ave.,Denver,CO,,-105.013339,39.696508,Ruby Hill
+Convenience Store,First Avenue Market,305 W 1st Ave,Denver,CO,80223,-104.99238,39.718495,Baker
+Convenience Store,La Tiendita,713 W 4th Ave,Denver,CO,80223,-104.996832,39.722832,Baker
+Convenience Store,Sunrise Foods,421 W 4TH AVE,Denver,CO,,-104.993653,39.722832,Baker
+Convenience Store With Gas,7-Eleven,303 N SANTA FE DR,Denver,CO,,-104.998948,39.721191,Baker
+Convenience Store With Gas,7-Eleven,303 N BROADWAY,Denver,CO,,-104.987987,39.721292,Baker
+Convenience Store With Gas,7-Eleven,85 W. Alameda Ave.,Denver,CO,,-104.989619,39.711488,Baker
+Convenience Store With Gas,Barn Store,295 S BROADWAY,Denver,CO,,-104.98798,39.711519,Baker
+Dollar Store,Dollar Tree,407 S Broadway # 400,Denver,CO,80209,-104.987624,39.709042,Baker
+Supermarket,Albertsons,323 S Broadway,Denver,CO,80209,-104.987652,39.710492,Baker
+Specialty Food Store,Colorado Nut Company,2 N. Kalamath St.,Denver,CO,,-104.999843,39.716841,Baker
+Specialty Food Store,Denver Urban Homesteading,200 N SANTA FE DR,Denver,CO,,-104.99827,39.719566,Baker
+Specialty Food Store,Lamar's Donuts,990 W. 6th Ave.,Denver,CO,,-104.99955,39.725465,Baker
+Warehouse Club Store,Sams Club,505 S Broadway,Denver,CO,80209,-104.98769,39.707349,Baker
+Small Grocery Store,Sprouts Farmers Market,197 E Mississippi Ave,Denver,CO,80209,-104.985286,39.696866,Washington Park West
+Supermarket,Whole Foods,1111 S Washington St,Denver,CO,80210,-104.979828,39.695707,Washington Park West
+Convenience Store With Gas,7-Eleven,607 E ALAMEDA AVE,Denver,CO,,-104.980187,39.711262,Speer
+Specialty Food Store,Panaderia Mexico,3637 W 1ST AVE,Denver,CO,,-105.035754,39.718394,Barnum
+Superette,Carniceria Zacatecas,70 Knox Ct,Denver,CO,80219,-105.032103,39.717874,Barnum
+Convenience Store With Gas,AB Petroleum,502 N SHERIDAN BLVD,Denver,CO,,-105.052758,39.724332,Barnum West
+Small Grocery Store,Carniceria Guadalajara,5185 W 1st Ave,Denver,CO,80219,-105.052728,39.718594,Barnum West
+Convenience Store,Villa Park Market,1000 Knox Ct,Denver,CO,80204,-105.031798,39.733181,Villa Park
+Convenience Store With Gas,Bradley Petroleum,1015 N SHERIDAN BLVD,Denver,CO,,-105.053571,39.733348,Villa Park
+Dollar Store,Family Dollar,998 Sheridan Blvd,Denver,CO,80214,-105.052615,39.732877,Villa Park
+Small Grocery Store,Fruteria LA Mexicana,706 Sheridan Blvd,Denver,CO,80214,-105.052572,39.728345,Villa Park
+Small Grocery Store,Perry Market,3925 W 6TH AVE,Denver,CO,,-105.03902,39.725867,Villa Park
+Convenience Store,7-Eleven,3445 W Colfax Ave,Denver,CO,,-105.032772,39.740619,West Colfax
+Convenience Store,7-Eleven,1490 N PERRY ST,Denver,CO,,-105.038966,39.740065,West Colfax
+Convenience Store,Q Superette K,3519 W COLFAX AVE,Denver,CO,,-105.033857,39.740617,West Colfax
+Dollar Store,Family Dollar,1845 Federal Blvd # B,Denver,CO,80204,-105.025248,39.745646,West Colfax
+Closed Small Grocery Store,Mi Pueblo Market,3200 West Colfax,,,,-105.0279211,39.739915,West Colfax
+Convenience Store,American Way Market,1115 W 11th Ave,Denver,CO,80204,-105.002033,39.733811,Lincoln Park
+Convenience Store,Rio Grande Grocery Store,1133 W 8th Ave,Denver,CO,80204,-105.002436,39.729132,Lincoln Park
+Convenience Store,Santa Fe Convenience Store,698 N SANTA FE DR,Denver,CO,,-104.998287,39.727135,Lincoln Park
+Convenience Store,U Mart Food Store,925 W 8th Ave,Denver,CO,80204,-104.999236,39.729113,Lincoln Park
+Convenience Store With Gas,7-Eleven,1107 N. Santa Fe Dr.,Denver,CO,,-104.99891,39.733957,Lincoln Park
+Convenience Store With Gas,AB Petroleum,620 N SANTA FE DR,Denver,CO,,-104.998283,39.726171,Lincoln Park
+Convenience Store With Gas,Circle K,1300 W. Colfax Ave.,Denver,CO,,-105.003606,39.739656,Lincoln Park
+Pharmacy,Smith's Food & Drug Ctr,869 Santa Fe Dr,Denver,CO,80204,-104.998827,39.730217,Lincoln Park
+Supermarket,King Soopers,1331 Speer Blvd,Denver,CO,80204,-104.997834,39.737656,Lincoln Park
+Convenience Store With Gas,K-Stop Gas and Groceries,4305 S LOWELL BLVD,Denver,CO,,-105.035098,39.638189,Fort Logan
+Convenience Store,7-Eleven,2790 S WADSWORTH BLVD,Denver,CO,,-105.080714,39.665716,Bear Valley
+Convenience Store With Gas,1st Stop,2900 S WADSWORTH BLVD,Denver,CO,,-105.080782,39.663939,Bear Valley
+Convenience Store With Gas,Bear Valley Conoco,3097 S SHERIDAN BLVD,Denver,CO,,-105.053595,39.65649,Bear Valley
+Supermarket,Walmart,3125 S Sheridan Blvd,Denver,CO,80227,-105.054417,39.655333,Bear Valley
+Convenience Store With Gas,Bradley Petroleum,5100 W DARTMOUTH AVE,Denver,CO,,-105.049785,39.656275,Harvey Park South
+Dollar Store,Dollar Tree,3100 S Sheridan Blvd,Denver,CO,80227,-105.052766,39.654617,Harvey Park South
+Supermarket,King Soopers,3100 S Sheridan Blvd # 200,Denver,CO,80227,-105.048303,39.655654,Harvey Park South
+Convenience Store,7-Eleven,2201 S SHERIDAN BLVD,Denver,CO,,-105.053673,39.675409,Harvey Park
+Convenience Store With Gas,Country Gas,3100 W JEWELL AVE,Denver,CO,,-105.025915,39.680409,Harvey Park
+Convenience Store With Gas,Phillips Petroleum Co,1901 S SHERIDAN BLVD,Denver,CO,,-105.053721,39.681918,Harvey Park
+Dollar Store,Family Dollar,2085 S Federal Blvd,Denver,CO,80219,-105.026128,39.680382,Harvey Park
+Small Grocery Store,Leever's / Save A Lot,1951 S Federal Blvd,Denver,CO,80219,-105.026088,39.680444,Harvey Park
+Closed Supermarket,Safeway,1955 S Sheridan Blvd,Denver,CO,80227,-105.054618,39.681331,Harvey Park
+Specialty Food Store,Encanto Botanica,2039 S Federal Blvd,Denver,CO,80219,-105.026128,39.680382,Harvey Park
+Specialty Food Store,San Antonia Fresh Mexican Bakery & Juice Bar,2007 S FEDERAL BLVD,Denver,CO,,-105.026128,39.680382,Harvey Park
+Specialty Food Store,Nooch Vegan Market,10 E Ellsworth Ave,Denver,CO,80209,-104.987035,39.716467,Speer
+Convenience Store,Vincent Convenience Market,1906 E COLFAX AVE,Denver,CO,,-104.964408,39.739861,Cheesman Park
+Dollar Store,Family Dollar,1700 E Colfax Ave,Denver,CO,80218,-104.966873,39.73968,Cheesman Park
+Pharmacy,Walgreen,2000 E COLFAX AVE,Denver,CO,,-104.963127,39.739432,Cheesman Park
+Convenience Store With Gas,AB Petroleum,303 S COLORADO BLVD,Denver,CO,,-104.941064,39.711075,Belcaro
+Convenience Store With Gas,Waterway Gas & Wash,3875 E CHERRY CREEK NORTH DR,Denver,CO,,-104.941826,39.707729,Belcaro
+Convenience Store With Gas,Conoco,505 E SPEER BLVD,Denver,CO,,-104.980738,39.722298,Speer
+Supermarket,Safeway,560 Corona St,Denver,CO,80218,-104.973509,39.724981,Speer
+Supermarket,Trader Joe's,661 Logan Street,Denver,CO,80203,-104.982416,39.726632,Speer
+Convenience Store With Gas,7-Eleven,580 N JOSEPHINE ST,Denver,CO,,-104.95793,39.725418,Cherry Creek
+Pharmacy,Rite Aid,3112 E 1ST AVE,Denver,CO,,-104.951081,39.7174,Cherry Creek
+Small Grocery Store,Continental's Deli,250 N STEELE ST,Denver,CO,,-104.949465,39.720399,Cherry Creek
+Supermarket,Whole Foods,2375 E 1st Ave # West,Denver,CO,80206,-104.956783,39.718799,Cherry Creek
+Specialty Food Store,Duke's Corner Store,2727 E 2nd Ave,Denver,CO,80206,-104.954959,39.719513,Cherry Creek
+Specialty Food Store,Penzeys Spices,200 Fillmore St,Denver,CO,80206,-104.953099,39.719793,Cherry Creek
+Specialty Food Store,Truffle,2906 E 6th Ave,Denver,CO,80206,-104.953133,39.725492,Cherry Creek
+Specialty Food Store,Oliver's Meat Market,1718 E 6th Ave,Denver,CO,80218,-104.966604,39.725452,Country Club
+Convenience Store With Gas,Conoco,785 N COLORADO BLVD,Denver,CO,,-104.941079,39.72879,Congress Park
+Pharmacy,Capitol Heights Pharmacy,1200 N MADISON ST,Denver,CO,,-104.945841,39.735258,Congress Park
+Small Grocery Store,Pappas Grocery Store - 12th Avenue Market & Deli,2620 E 12th Ave,Denver,CO,80206,-104.955825,39.735051,Congress Park
+Specialty Food Store,New World Cheese,2504 E Colfax Ave,Denver,CO,,-104.957134,39.739978,Congress Park
+Convenience Store,7-Eleven,1090 N OGDEN ST,Denver,CO,,-104.97501,39.733512,Capitol Hill
+Convenience Store,7-Eleven,1000 E COLFAX AVE,Denver,CO,,-104.975104,39.73986,Capitol Hill
+Convenience Store,Capitol Hill Market,638 E Colfax Ave,Denver,CO,80203,-104.979001,39.739775,Capitol Hill
+Convenience Store,City Store,1100 Broadway,Denver,CO,80203,-104.987263,39.733915,Capitol Hill
+Convenience Store,Jack Market,518 E COLFAX AVE,Denver,CO,,-104.980646,39.73984,Capitol Hill
+Convenience Store,Zak Market,424 E COLFAX AVE,Denver,CO,,-104.981487,39.739734,Capitol Hill
+Supermarket,King Soopers,1155 E 9th Ave # A,Denver,CO,80218,-104.973777,39.731541,Capitol Hill
+Supermarket,Whole Foods,900 E 11th Ave,Denver,CO,80218,-104.975844,39.733266,Capitol Hill
+Specialty Food Store,Tony's Market,950 N BROADWAY,Denver,CO,,-104.987018,39.73136,Capitol Hill
+Convenience Store,7-Eleven,551 E COLFAX AVE,Denver,CO,,-104.980399,39.740145,North Capitol Hill
+Convenience Store,7-Eleven,1690 N PEARL ST,Denver,CO,,-104.979603,39.743017,North Capitol Hill
+Convenience Store,Russell's,1670 N BROADWAY,Denver,CO,,-104.986656,39.74284,North Capitol Hill
+Convenience Store,Russell's,1700 N BROADWAY,Denver,CO,,-104.986921,39.743585,North Capitol Hill
+Convenience Store,7-Eleven,10010 E GIRARD AVE,Denver,CO,,-104.871739,39.65441,Hampden
+Convenience Store,Dos Cunados,10101 E HAMPDEN AVE,Denver,CO,,-104.870051,39.653775,Hampden
+Convenience Store With Gas,Conoco/Circle K,3495 S MONACO PKWY,Denver,CO,,-104.912999,39.65444,Hampden
+Pharmacy,Walgreen,6200 E COLFAX AVE,Denver,CO,,-104.915703,39.73961,Montclair
+Supermarket,King Soopers,1355 Krameria St,Denver,CO,80220,-104.916209,39.738511,Montclair
+Supermarket,Safeway,6220 E 14th Ave # 1,Denver,CO,80220,-104.915592,39.737532,Montclair
+Specialty Food Store,Awash Grocery Store,1440 Poplar St,Denver,CO,80220,-104.904421,39.739527,Montclair
+Small Grocery Store,Marczyk Fine Foods,5100 E COLFAX AVE,Denver,CO,,-104.927749,39.73979,Hale
+Supermarket,Trader Joe's,790 Colorado Blvd,Denver,CO,80206,-104.940427,39.729023,Hale
+Specialty Food Store,Shola Market,4218 E Colfax Ave,Denver,CO,80220,-104.937898,39.739969,Hale
+Specialty Food Store,Tienda Salvadorena,5128 E Colfax Ave,Denver,CO,80220,-104.927234,39.73979,Hale
+Convenience Store,7-Eleven,1103 N YOSEMITE ST,Denver,CO,,-104.885026,39.733062,East Colfax
+Convenience Store,East African Convenience,8212 E COLFAX AVE,Denver,CO,,-104.892472,39.74,East Colfax
+Convenience Store,T's Food Market,8332 E Colfax Ave,Denver,CO,80220,-104.890855,39.739876,East Colfax
+Convenience Store,Syracuse Market,1131 N SYRACUSE ST,Denver,CO,,-104.899149,39.733714,East Colfax
+Specialty Food Store,New Discount Stores,1133 Yosemite St # C,Denver,CO,80220,-104.884727,39.733748,East Colfax
+Superette,Family Asia Market,8800 E Colfax Ave,Denver,CO,80220,-104.885479,39.739857,East Colfax
+Convenience Store,7-Eleven,750 S MONACO PKWY,Denver,CO,,-104.912772,39.703074,Washington Virginia Vale
+Convenience Store With Gas,Diamond Shamrock/Corner Store,990 S MONACO STREET PKWY,Denver,CO,,-104.912433,39.698757,Washington Virginia Vale
+Convenience Store With Gas,Gas Plus,800 S MONACO STREET PKWY,Denver,CO,,-104.912387,39.702106,Washington Virginia Vale
+Convenience Store With Gas,Shop Fast,6504 E ALAMEDA AVE,Denver,CO,,-104.912508,39.710941,Washington Virginia Vale
+Dollar Store,Dollar Tree,600 S Holly St # 105,Denver,CO,80246,-104.9215,39.705918,Washington Virginia Vale
+Small Grocery Store,M & I International Market,909 S ONEIDA ST,Denver,CO,,-104.909009,39.699734,Washington Virginia Vale
+Small Grocery Store,Marhaba International Market,6879 LEETSDALE DR,Denver,CO,,-104.908695,39.700679,Washington Virginia Vale
+Small Grocery Store,Merhaba International Market,6879 Leetsdale Dr,Denver,CO,80224,-104.908695,39.700679,Washington Virginia Vale
+Small Grocery Store,Natural Grocer - Vitamin Cottage,5231 Leetsdale Dr,Denver,CO,80246,-104.926096,39.708494,Washington Virginia Vale
+Supermarket,King Soopers,890 S Monaco Pkwy,Denver,CO,80224,-104.912715,39.700541,Washington Virginia Vale
+Specialty Food Store,Dulce & Canela Bakery,6625 LEETSDALE DR UNIT B,Denver,CO,80224,-104.911291,39.702246,Washington Virginia Vale
+Specialty Food Store,European Mart,5225 LEETSDALE DR,Denver,CO,,-104.926743,39.708454,Washington Virginia Vale
+Specialty Food Store,Les Delices De Paris,600 S HOLLY ST #101,Denver,CO,80246,-104.9215,39.705918,Washington Virginia Vale
+Supermarket,Albertsons,200 Quebec St # 400,Denver,CO,80230,-104.902587,39.720886,Lowry Field
+Specialty Food Store,Savory Spice Shop,200 Quebec St # 600-101,Denver,CO,80230,-104.903447,39.72043,Lowry Field
+Specialty Food Store,Tippett Beef Patti,7525 E 1st Pl,Denver,CO,80230,-104.899833,39.720467,Lowry Field
+Convenience Store With Gas,Blue Nile Gas Express - Ivory Market,10890 E DARTMOUTH AVE,Denver,CO,,-104.860755,39.659721,Kennedy
+Convenience Store,Sara Grocery & Laundry,1330 W 38th Ave,Denver,CO,80211,-105.002609,39.769106,Highland
+Convenience Store,7-Eleven,4770 W COLFAX AVE,Denver,CO,,-105.04773,39.74013,West Colfax
+Small Grocery Store,Sprouts Farmers Market,4700 W 38th Ave # B,Denver,CO,80212,-105.047643,39.769339,West Highland
+Convenience Store,TT Food Mart,4400 W 29TH AVE,Denver,CO,,-105.044311,39.758209,Sloan Lake
+Convenience Store With Gas,Diamond Shamrock,7045 E HAMPDEN AVE,Denver,CO,,-104.907417,39.653467,Hampden
+Convenience Store With Gas,Shell,7285 E HAMPDEN AVE,Denver,CO,,-104.904028,39.653532,Hampden
+Convenience Store With Gas,Twin Star Energy,8899 E HAMPDEN AVE,Denver,CO,,-104.887317,39.653527,Hampden
+Supermarket,Safeway,6440 E Yale Ave,Denver,CO,80222,-104.913291,39.666283,Hampden
+Supermarket,Target,7777 E Hampden Ave,Denver,CO,80231,-104.900178,39.654964,Hampden
+Convenience Store,7-Eleven,4990 E HAMPDEN AVE,Denver,CO,,-104.929382,39.652732,Southmoor Park
+Supermarket,Safeway,4950 E Hampden Ave,Denver,CO,80222,-104.929801,39.652196,Southmoor Park
+Specialty Food Store,Duffey's Bakery,4994 E HAMPDEN AVE,Denver,CO,80222,-104.929084,39.652295,Southmoor Park
+Convenience Store,7-Eleven,4351 S TAMARAC PKWY,Denver,CO,,-104.895058,39.637656,Hampden South
+Convenience Store With Gas,Circle K,3595 S YOSEMITE ST,Denver,CO,,-104.885319,39.651349,Hampden South
+Convenience Store With Gas,Conoco Yosemite,8900 E HAMPDEN AVE,Denver,CO,,-104.88434,39.652782,Hampden South
+Dollar Store,Dollar Tree,8000 E Quincy Ave,Denver,CO,80237,-104.896945,39.637715,Hampden South
+Dollar Store,Family Dollar,8962 E Hampden Ave,Denver,CO,80231,-104.883264,39.652019,Hampden South
+Pharmacy,Walgreen,7190 E HAMPDEN AVE,Denver,CO,,-104.905079,39.652645,Hampden South
+Supermarket,King Soopers,6470 E Hampden Ave,Denver,CO,80222,-104.914327,39.653043,Hampden South
+Supermarket,Whole Foods,7400 E Hampden Ave # D-1,Denver,CO,80231,-104.900591,39.652928,Hampden South
+Specialty Food Store,Omaha Steak Stores,6300 E Hampden Ave # J,Denver,CO,80222,-104.916267,39.65215,Hampden South
+Convenience Store,7-Eleven,2100 S Holly St,Denver,CO,,-104.921859,39.678145,Goldsmith
+Convenience Store,Monaco Mini Market,2200 S MONACO PKWY,Denver,CO,,-104.912748,39.676955,Goldsmith
+Convenience Store With Gas,Conoco/Circle K,2100 S MONACO PKWY,Denver,CO,,-104.912747,39.677388,Goldsmith
+Convenience Store With Gas,Solo Gas,2690 S MONACO PKWY,Denver,CO,,-104.912786,39.668593,Goldsmith
+Dollar Store,Dollar Tree,2223 S Monaco Pkwy # E8,Denver,CO,80222,-104.912959,39.676756,Goldsmith
+Pharmacy,Walgreen,6360 E EVANS AVE,Denver,CO,,-104.914198,39.678204,Goldsmith
+Small Grocery Store,Jerusalem International Market,5470 E Evans Ave,Denver,CO,80222,-104.924304,39.678231,Goldsmith
+Closed Small Grocery Store,Walmart Neighborhood Market,2253 S Monaco Pkwy,Denver,CO,80222,-104.913002,39.676501,Goldsmith
+Specialty Food Store,Crumbles Bakery,2200 S MONACO PKWY,Denver,CO,,-104.912748,39.676955,Goldsmith
+Specialty Food Store,Dijla Halal Market,4770 E Evans Ave,Denver,CO,80222,-104.932037,39.678288,Goldsmith
+Convenience Store With Gas,Diamond Shamrock,2210 S COLORADO BLVD,Denver,CO,,-104.940258,39.676403,University Hills
+Small Grocery Store,Middle East Market,2254 S Colorado Blvd,Denver,CO,80222,-104.94035,39.675458,University Hills
+Small Grocery Store,Sprouts Farmers Market,2880 S Colorado Blvd,Denver,CO,80222,-104.940546,39.663855,University Hills
+Supermarket,King Soopers,2750 S Colorado Blvd,Denver,CO,80222,-104.937305,39.666538,University Hills
+Specialty Food Store,Sawa Meat & Sausage,2318 S Colorado Blvd,Denver,CO,80222,-104.940146,39.674308,University Hills
+Convenience Store,Signature Foods - Karen's ,1120 Yosemite St,Denver,CO,80220,-104.884692,39.733516,Outside Denver
+Convenience Store,Russell's,1775 N SHERMAN ST,Denver,CO,,-104.985175,39.744538,North Capitol Hill
+Convenience Store,Russell's,1560 BROADWAY,Denver,CO,,-104.986766,39.741336,North Capitol Hill
+Convenience Store,Uptown Market,1999 N PENNSYLVANIA ST,Denver,CO,,-104.981423,39.746987,North Capitol Hill
+Convenience Store,Urban Express,1550 N BROADWAY,Denver,CO,,-104.986729,39.741231,North Capitol Hill
+Small Grocery Store,Marczyk Fine Foods,770 E 17th Ave,Denver,CO,80203,-104.977918,39.742991,North Capitol Hill
+Convenience Store With Gas,7-Eleven,1600 E EVANS AVE,Denver,CO,,-104.968437,39.678252,University
+Convenience Store With Gas,Conoco,2001 S UNIVERSITY BLVD,Denver,CO,,-104.959766,39.679981,University
+Small Grocery Store,Walgreen,1235 E EVANS AVE,Denver,CO,,-104.972589,39.679443,University
+Supermarket,Safeway,2150 S Downing St,Denver,CO,80210,-104.972513,39.677622,University
+Specialty Food Store,Adventist Book Center,2520 S DOWNING ST,Denver,CO,,-104.973155,39.670699,University
+Pharmacy,Todd's Pharmacy,850 E HARVARD AVE,Denver,CO,,-104.977751,39.670294,Rosedale
+Specialty Food Store,Mountain Man,2276 S Sherman St,Denver,CO,80210,-104.984623,39.675494,Rosedale
+Convenience Store With Gas,7-Eleven,2410 S UNIVERSITY BLVD,Denver,CO,,-104.958993,39.672782,University Park
+Convenience Store With Gas,Weaver's Automotive,2945 E EVANS AVE,Denver,CO,,-104.952641,39.678723,University Park
+Convenience Store,1st Stop,1970 S HOLLY ST,Denver,CO,,-104.921912,39.68091,Virginia Village
+Convenience Store,Farm Crest Milk Stores,1970 S Holly St,Denver,CO,80222,-104.921912,39.68091,Virginia Village
+Convenience Store With Gas,All American Gas,1510 S HOLLY ST,Denver,CO,,-104.921923,39.689072,Virginia Village
+Convenience Store With Gas,Circle K,1600 S COLORADO BLVD,Denver,CO,,-104.940238,39.687151,Virginia Village
+Convenience Store With Gas,Conoco/Circle K,1696 S COLORADO BLVD,Denver,CO,,-104.940237,39.685987,Virginia Village
+Convenience Store With Gas,Fast & Friendly Food Mart,5595 E FLORIDA AVE,Denver,CO,,-104.922743,39.689587,Virginia Village
+Dollar Store,Family Dollar,1467 S Holly St,Denver,CO,80222,-104.923461,39.68998,Virginia Village
+Small Grocery Store,East Europe Market,4015 E ARKANSAS AVE,Denver,CO,,-104.939846,39.691303,Virginia Village
+Specialty Food Store,Atlanta Bread Company,950 S CHERRY ST,Denver,CO,,-104.933488,39.698921,Virginia Village
+Specialty Food Store,Detour Bakery,1479 S HOLLY ST,Denver,CO,,-104.923576,39.689797,Virginia Village
+Convenience Store With Gas,Holiday Auto Care - Shamrock,1465 S COLORADO BLVD,Denver,CO,,-104.941008,39.690902,Cory - Merrill
+Convenience Store With Gas,Loaf N Jug,1499 S COLORADO BLVD,Denver,CO,,-104.940892,39.689577,Cory - Merrill
+Pharmacy,Bonnie Brae Drug Store,2700 E LOUISIANA AVE,Denver,CO,,-104.954379,39.692799,Cory - Merrill
+Supermarket,Safeway,1653 S Colorado Blvd,Denver,CO,80222,-104.940861,39.6866,Cory - Merrill
+Convenience Store With Gas,7-Eleven,4085 E MISSISSIPPI AVE,Denver,CO,,-104.939994,39.696827,Belcaro
+Supermarket,King Soopers,825 S Colorado Blvd,Denver,CO,80246,-104.940843,39.701504,Belcaro
+Convenience Store With Gas,Diamond Shamrock,300 S DOWNING ST,Denver,CO,,-104.973077,39.710888,Washington Park
+Small Grocery Store,Fooducopia,1939 E Kentucky Ave,Denver,CO,80209,-104.964217,39.700323,Washington Park
+Small Grocery Store,Joe's Meat & Produce,970 S Oneida St # 10-A,Denver,CO,80224,-104.907522,39.69888,Washington Virginia Vale
+Convenience Store With Gas,Diamond Shamrock,10098 E ALAMEDA AVE,Denver,CO,,-104.871086,39.70956,Windsor
+Pharmacy,Walgreen,950 S QUEBEC ST,Denver,CO,,-104.902812,39.699214,Windsor
+Small Grocery Store,Pete's Fruits & Vegetables,5606 E Cedar Ave,Denver,CO,80224,-104.922029,39.712883,Hilltop
+Convenience Store,7-10 Market,7200 E COLFAX AVE,Denver,CO,,-104.904258,39.739871,Montclair
+Convenience Store,7-Eleven,7295 E 7TH AVE,Denver,CO,,-104.903897,39.727094,Montclair
+Convenience Store,Monaco Grocery,6622 E COLFAX AVE,Denver,CO,,-104.91082,39.739734,Montclair
+Convenience Store With Gas,Beth Shell,6390 E COLFAX AVE,Denver,CO,,-104.914279,39.739872,Montclair
+Convenience Store With Gas,Safeway Fuel,6130 E 14TH AVE,Denver,CO,,-104.916484,39.738079,Montclair
+Supermarket,Safeway,201 E Jefferson Ave,Englewood,CO,80113,-104.984422,39.6518,Outside Denver
+Supermarket,Safeway,12200 E Mississippi Ave,Aurora,CO,80012,-104.84594,39.696025,Outside Denver
+Supermarket,Safeway,3900 Wadsworth Blvd,Wheat Ridge,CO,80033,-105.080137,39.771096,Outside Denver
+Supermarket,Viet Hoa Supermarket,225 S Sheridan Blvd # B,Lakewood,CO,80226,-105.054839,39.712605,Outside Denver
+Supermarket,Walmart,3615 W Bowles Ave,Littleton,CO,80123,-105.034773,39.610526,Outside Denver
+Closed Supermarket,Walmart,8196 W Bowles Ave,Littleton,CO,80123,-105.090215,39.608072,Outside Denver
+Supermarket,Whole Foods,870 S Colorado Blvd # A,Denver,CO,80246,-104.939495,39.700906,Outside Denver
+Supermarket,Whole Foods,444 S Wadsworth Blvd,Lakewood,CO,80226,-105.081349,39.708021,Outside Denver
+Supermarket,Whole Foods,5155 S Wadsworth Blvd,Littleton,CO,80123,-105.0915,39.622935,Outside Denver
+Supermarket,Won's Market,105 Sheridan Blvd,Lakewood,CO,80226,-105.053321,39.719193,Outside Denver
+Closed Supermarket,Leever's / Save A Lot,6601 W. COLFAX AVE,Lakewood,CO,80214,-105.069723,39.740386,Outside Denver
+Specialty Food Store,Denver Halal Market,10200 E Mississippi Ave # C,Denver,CO,80247,-104.869098,39.696473,Outside Denver
+Superette,Carniceria la Jerezana,1148 Yosemite St,Denver,CO,80220,-104.884692,39.733516,Outside Denver
+Superette,Village East Grocery Store,1161 S Peoria St,Aurora,CO,80012,-104.847535,39.695645,Outside Denver
+Warehouse Club Store,Costco,1471 S Havana St,Aurora,CO,80012,-104.867785,39.690558,Outside Denver
+Warehouse Club Store,Costco,5195 Wadsworth Blvd,Arvada,CO,80002,-105.082218,39.789881,Outside Denver
+Warehouse Club Store,Costco,4000 River Point Pkwy,Sheridan,CO,80110,-105.006451,39.644445,Outside Denver
+Warehouse Club Store,Sams Club,7370 W 52nd Ave,Arvada,CO,80002,-105.077661,39.788469,Outside Denver
+Dollar Store,Dollars & Sense,403 16th St,Denver,CO,80202,-104.989647,39.743513,CBD
+Specialty Food Store,The Market @ Larimer,1445 Larimer St.,Denver,CO,,-104.999087,39.74809,Union Station
+Specialty Food Store,Americanum Provisions,3350 N BRIGHTON BLVD,Denver,CO,,-104.979796,39.76874,Five Points
+Specialty Food Store,Sawa Meat & Sausage,3960 Niagara St # A,Denver,CO,80207,-104.910821,39.772156,Northeast Park Hill
+Specialty Food Store,Merkato Market,7227 E COLFAX AVE,Denver,CO,,-104.904326,39.740412,South Park Hill
+Supercenter,Walmart,7800 Smith Rd,Denver,CO,80207,-104.901246,39.770642,Stapleton
+Dollar Store,Family Dollar,1515 W 48th Ave,Denver,CO,80221,-105.005727,39.784287,Chaffee Park
+Small Grocery Store,Walgreen,1111 S COLORADO BLVD,Denver,CO,,-104.941041,39.696077,Cory - Merrill
+Specialty Food Store,Cheese Co,5575 E 3rd Ave # C,Denver,CO,80220,-104.922706,39.721347,Hilltop
+Convenience Store,7-Eleven,6201 E 14TH AVE,Denver,CO,,-104.915984,39.738779,Montclair
+Convenience Store,7-Eleven,4040 E 8TH AVE,Denver,CO,,-104.939685,39.728958,Hale
+Dollar Store,Family Dollar,7740 E Colfax Ave # 1,Denver,CO,80220,-104.897863,39.740094,East Colfax
+Specialty Food Store,California Bakery,909 S ONEIDA ST,Denver,CO,80224,-104.909009,39.699734,Washington Virginia Vale
+Supercenter,Walmart,7455 W Colfax Ave,Lakewood,CO,80214,-105.07932,39.742976,Outside Denver
+Small Grocery Store,Natural Grocer - Vitamin Cottage,3333 South Wadsworth Blvd,Lakewood,CO,80227,-105.081862,39.65539,Outside Denver
+Supermarket,King Soopers,101 Englewood Pkwy # A,Englewood,CO,80110,-104.988862,39.655678,Outside Denver
+Small Grocery Store,Natural Grocer - Vitamin Cottage,2375 15TH ST,,,,-105.0489585,39.771815,Berkeley
+Specialty Food Store,Westernkamp's Mercado Rizo,5106 N WASHINGTON ST,Denver,CO,,-104.977957,39.789259,Globeville
+Specialty Food Store,Silver State Meats,5140 Race Ct # 1,Denver,CO,80216,-104.967558,39.789739,Elyria Swansea
+Convenience Store With Gas,Sun Mart,2405 E COLFAX AVE,Denver,CO,,-104.958475,39.740457,City Park
+Convenience Store,Golden Gate Market,3701 Williams St,Denver,CO,80205,-104.966097,39.768252,Cole
+Convenience Store,7-Eleven,1645 E 17TH AVE,Denver,CO,,-104.967562,39.743477,City Park West
+Convenience Store,7-Eleven,1438 ARAPAHOE ST,Denver,CO,,-104.99707,39.746428,CBD
+Convenience Store,Russell's,303 16TH ST,Denver,CO,,-104.988776,39.742805,CBD
+Convenience Store,Heng's and Ing's,3060 W MISSISSIPPI AVE,Denver,CO,,-105.026135,39.69661,Mar Lee
+Specialty Food Store,Tri Ocean Seafood,1175 S Federal Blvd,Denver,CO,80219,-105.025742,39.695486,Mar Lee
+Small Grocery Store,Little Saigon Market,375 S Federal Blvd # 104,Denver,CO,80219,-105.025107,39.709554,Westwood
+Supermarket,King Soopers,2727 W Evans Ave,Denver,CO,80219,-105.021537,39.679616,College View - South Platte
+Convenience Store,1st Avenue Market,305 W 1ST AVE,Denver,CO,,-104.99238,39.718495,Baker
+Supercenter,Kmart,363 S Broadway,Denver,CO,80209,-104.987659,39.70987,Baker
+Convenience Store,Jerry's Market,601 Knox Ct,Denver,CO,80204,-105.032864,39.726297,Villa Park
+Convenience Store,Mr G's Neighborhood Grocery,711 W 8th Ave,Denver,CO,80204,-104.996786,39.729162,Lincoln Park
+Pharmacy,Walgreen,3067 S SHERIDAN BLVD,Denver,CO,,-105.054148,39.657676,Bear Valley
+Dollar Store,Super 99 Cents,2155 S Sheridan Blvd,Denver,CO,80227,-105.056182,39.677967,Harvey Park
+Warehouse Club Store,Costco,7900 W Quincy Ave,Littleton,CO,80123,-105.0824,39.638313,Marston
+Convenience Store With Gas,Conoco ACS,601 W. Mississippi Ave.,Denver,CO,,-104.994789,39.696916,Athmar Park
+Specialty Food Store,Tortilleria la Pasadita,932 S. Federal Blvd.,Denver,CO,,-105.024757,39.699745,Athmar Park
+Convenience Store With Gas,Conoco Capitol Hill,1770 E COLFAX AVE,Denver,CO,,-104.966342,39.739751,Cheesman Park
+Supermarket,Safeway,3110 E 1st Ave,Denver,CO,80206,-104.950737,39.717035,Cherry Creek
+Convenience Store,Capitol Convenience,1300 N PEARL ST,Denver,CO,,-104.979761,39.737014,Capitol Hill
+Convenience Store,7-Eleven,380 E 17TH AVE,Denver,CO,,-104.982516,39.74315,North Capitol Hill
+Convenience Store With Gas,Safeway Fuel,2797 S MONACO PKWY,Denver,CO,,-104.912977,39.66699,Hampden
+Convenience Store With Gas,Conoco,8900 E HAMPDEN AVE,Denver,CO,,-104.88434,39.652782,Hampden South
+Convenience Store With Gas,Bradley Petroleum,2107 S Holly St,Denver,CO,,-104.922626,39.67791,Goldsmith
+Pharmacy,Rite Aid,2870 S COLORADO BLVD,Denver,CO,,-104.940025,39.664426,University Hills
+Convenience Store With Gas,Diamond Shamrock,1001 N BROADWAY,Denver,CO,,-104.98785,39.732328,Civic Center
+Small Grocery Store,Natural Grocer - Vitamin Cottage,2053 S Colorado Blvd,Denver,CO,80222,-104.940927,39.679415,University Park
+Convenience Store,Mini Market,1124 Yosemite St,Denver,CO,,-104.884692,39.733516,Outside Denver
+Supercenter,Target,1400 S Havana St,Aurora,CO,80012,-104.863837,39.690713,Outside Denver
+Supercenter,Target,9390 W Cross Dr,Littleton,CO,80123,-105.101398,39.611924,Outside Denver
+Supercenter,Target,460 S Vance St,Lakewood,CO,80226,-105.079724,39.707789,Outside Denver
+Supercenter,Target,3650 River Point Pkwy,Englewood,CO,80110,-105.005433,39.6502,Outside Denver
+Supercenter,Target,4301 E Virginia Ave,Denver,CO,80246,-104.93852,39.708516,Outside Denver
+Supercenter,Target,1985 Sheridan Blvd,Edgewater,CO,80214,-105.053271,39.746918,Outside Denver
+Supercenter,Walmart,3301 Tower Rd,Aurora,CO,80011,-104.773888,39.764078,Outside Denver
+Supercenter,Walmart,5957 W 44th Ave,Wheat Ridge,CO,80212,-105.062386,39.776641,Outside Denver
+Supercenter,Walmart,5990 Dahlia St,Commerce City,CO,80022,-104.929028,39.804603,Outside Denver
+Supercenter,Walmart,440 Wadsworth Blvd,Lakewood,CO,80226,-105.080316,39.721614,Outside Denver
+Supercenter,Walmart,9400 E Hampden Ave,Denver,CO,80231,-104.878486,39.651878,Outside Denver
+Supercenter,Walmart,601 Englewood Pkwy,Englewood,CO,80110,-104.995344,39.656724,Outside Denver
+Small Grocery Store,Leever's / Save A Lot,690 Peoria St,Aurora,CO,80011,-104.847093,39.727291,Outside Denver
+Small Grocery Store,Mi Pueblo Market,6040 E 64th Ave,Commerce City,CO,80022,-104.918294,39.81222,Outside Denver
+Small Grocery Store,Mile High Halal Market,7950 E Mississippi Ave # C,Denver,CO,80247,-104.895859,39.696504,Outside Denver
+Small Grocery Store,Natural Grocer - Vitamin Cottage,6475 South Kipling,Littleton,CO,80123,-105.111136,39.599506,Outside Denver
+Small Grocery Store,Natural Grocer - Vitamin Cottage,1433 Washington St,Denver,CO,,-104.9823539,39.7934495,Outside Denver
+Small Grocery Store,Sprouts Farmers Market,1150 Ironton St,Aurora,CO,80010,-104.8622272,39.6947506,Outside Denver
+Small Grocery Store,Walmart Neighborhood Market,10400 E Colfax Ave,Aurora,CO,80010,-104.867622,39.73918,Outside Denver
+Small Grocery Store,Walmart Neighborhood Market,1442 S Parker Rd,Denver,CO,80231,-104.891055,39.690625,Outside Denver
+Supermarket,Albertsons,10081 W Bowles Ave,Littleton,CO,80127,-105.111159,39.610836,Outside Denver
+Supermarket,Avanza,10777 E Colfax Ave,Aurora,CO,80010,-104.862557,39.740245,Outside Denver
+Supermarket,King Soopers,6000 S Holly St,Greenwood Vlg,CO,80111,-104.921106,39.607909,Outside Denver
+Supermarket,King Soopers,3495 S University Blvd,Englewood,CO,80113,-104.959563,39.653534,Outside Denver
+Supermarket,King Soopers,4850 E 62nd Ave,Commerce City,CO,80022,-104.930109,39.808608,Outside Denver
+Supermarket,King Soopers,1155 S Havana St # 1,Aurora,CO,80012,-104.867313,39.695301,Outside Denver
+Supermarket,King Soopers,3190 S Parker Rd,Aurora,CO,80014,-104.844339,39.659473,Outside Denver
+Supermarket,King Soopers,6760 S Pierce St,Littleton,CO,80128,-105.072011,39.593526,Outside Denver
+Supermarket,King Soopers,3817 Sheridan Blvd,Wheat Ridge,CO,80212,-105.0545002,39.7702503,Outside Denver
+Supermarket,King Soopers,4910 S Yosemite St # B2,Greenwood Vlg,CO,80111,-104.884094,39.626093,Outside Denver
+Supermarket,King Soopers,1725 Sheridan Blvd # 1,Edgewater,CO,80214,-105.053246,39.745602,Outside Denver
+Supermarket,King Soopers,655 Peoria St,Aurora,CO,80011,-104.847266,39.726397,Outside Denver
+Supermarket,King Soopers,4600 Leetsdale Dr,Glendale,CO,80246,-104.932891,39.708516,Outside Denver
+Supermarket,King Soopers,5050 S Federal Blvd # A,Englewood,CO,80110,-105.024361,39.625724,Outside Denver
+Supermarket,King Soopers,9800 W Belleview Ave,Littleton,CO,80123,-105.107471,39.623645,Outside Denver
+Supermarket,King Soopers,1927 S Wadsworth Blvd # 1,Lakewood,CO,80227,-105.083221,39.681758,Outside Denver
+Supermarket,King Soopers,6350 Sheridan Blvd # 1,Arvada,CO,80003,-105.052061,39.811279,Outside Denver
+Supermarket,Safeway,5025 S Kipling Pkwy,Littleton,CO,80127,-105.111614,39.625521,Outside Denver
+Supermarket,Safeway,1677 S Havana St,Aurora,CO,80012,-104.86793,39.686454,Outside Denver
+Specialty Food Store,Black Sea Market,7920 E Mississippi Ave # M,Denver,CO,80247,-104.895974,39.696505,Outside Denver
+Convenience Store,Aztlan,4880 Chambers Rd,Denver,CO,80239,-104.809053,39.786122,Gateway - Green Valley Ranch
+Discount Merchandise Market,Discount Empire Inc,4854 Chambers Rd,Denver,CO,80239,-104.809596,39.785291,Gateway - Green Valley Ranch
+Small Grocery Store,Walmart Neighborhood Market,5141 Chambers Rd,Denver,CO,80239,-104.809556,39.785584,Gateway - Green Valley Ranch
+Convenience Store With Gas,Z-Mart,14125 E 52ND AVE,Denver,CO,,-104.8242,39.790605,Montbello
+Closed Supermarket,Safeway,4884 Chambers Rd,Denver,CO,80239,-104.808876,39.786134,Gateway - Green Valley Ranch
