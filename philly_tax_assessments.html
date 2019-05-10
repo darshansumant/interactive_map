@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8' />
+  <title>Philadelphia Property Tax Assessments</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <!-- Import Mapbox GL JS -->
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.css' rel='stylesheet' />
+  <!-- Import jQuery -->
+  <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+
+  <!-- Import Mapbox GL JS Geocoder -->
+  <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.2.0/mapbox-gl-geocoder.min.js'></script>
+  <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.2.0/mapbox-gl-geocoder.css' type='text/css' />
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id='map'></div>
+  <script>
+    // using the public access Token from the Mapbox tutorial
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZGFyc2hhbnN1bWFudCIsImEiOiJjanRka2IzaGYxOGFpNDNwOXQ0MnVrc3F1In0.x2V70JacA-kDg8GjdgmxPw'; // set the access token
+
+    var map = new mapboxgl.Map({
+      container: 'map', // The container ID
+      style: 'mapbox://styles/mapbox/light-v10', // The map style to use
+      center: [-75.160000, 39.999000], // Starting position [lng, lat]
+      zoom: 10 // Starting zoom level
+    });
+
+    // Adding the bounding box
+    map.on('load', function() {
+      var geocoder = new MapboxGeocoder({ // Initialize the geocoder
+        accessToken: mapboxgl.accessToken, // Set the access token
+        mapboxgl: mapboxgl, // Set the mapbox-gl instance
+        zoom: 13, // Set the zoom level for geocoding results
+        placeholder: "Enter an address or place name", // This placeholder text will display in the search bar
+        bbox: [-75.287, 39.868, -74.952, 40.142] // Starting bounding box to cover entire County
+      });
+      // Add the geocoder to the map
+      map.addControl(geocoder, 'top-left'); // Add the search box to the top left
+    });
+
+  </script>
+
+</body>
+
+</html>
