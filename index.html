@@ -53,6 +53,15 @@
     });
     // Add the geocoder to the map
     map.addControl(geocoder, 'top-left'); // Add the search box to the top left
+    // Adding markers on the map
+    var marker = new mapboxgl.Marker({'color': '#008000'}) // Create a new green marker
+
+    geocoder.on('result', function(data) { // When the geocoder returns a result
+      var point = data.result.center; // Capture the result coordinates
+
+        marker.setLngLat(point).addTo(map); // Add the marker to the map at the result coordinates
+
+    });
   });
   </script>
 
