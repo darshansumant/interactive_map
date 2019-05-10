@@ -49,12 +49,118 @@
       var geocoder = new MapboxGeocoder({ // Initialize the geocoder
         accessToken: mapboxgl.accessToken, // Set the access token
         mapboxgl: mapboxgl, // Set the mapbox-gl instance
-        zoom: 13, // Set the zoom level for geocoding results
+        zoom: 14, // Set the zoom level for geocoding results
         placeholder: "Enter an address or place name", // This placeholder text will display in the search bar
         bbox: [-75.287, 39.868, -74.952, 40.142] // Starting bounding box to cover entire County
       });
       // Add the geocoder to the map
       map.addControl(geocoder, 'top-left'); // Add the search box to the top left
+
+      // Adding markers to the map
+      var marker = new mapboxgl.Marker({'color': '#008000'}) // Create a new green marker
+
+      geocoder.on('result', function(data) { // When the geocoder returns a result
+        var point = data.result.center; // Capture the result coordinates
+
+        // Geocoder Tilequery API
+        var tileset = 'darshansumant.7ys7apt0'; // tileset created for Philly Prop Tax Assmt
+        var radius = 1609; // 1609 meters is roughly equal to one mile
+        var limit = 50; // The maximum amount of results to return
+
+        // Tileset API Query
+        var query = 'https://api.mapbox.com/v4/' + tileset + '/tilequery/' + point[0] + ',' +
+                     point[1] + '.json?radius=' + radius + '&limit= ' + limit +
+                     ' &access_token=' + mapboxgl.accessToken;
+
+          marker.setLngLat(point).addTo(map); // Add the marker to the map at the result coordinates
+
+        // Using Ajax to execute the Tilset API Query call
+        $.ajax({
+          method: 'GET',
+          url: query,
+        }).done(function(data) {
+          // console.log(data);
+          map.getSource('tilequery').setData(data);
+          // Code from the next step will go here
+        })
+
+      });
+
+      // Displaying Query results on the map
+      map.addSource('tilequery', { // Add a new source to the map style: https://docs.mapbox.com/mapbox-gl-js/api/#map#addsource
+        type: "geojson",
+        data: {
+          "type": "FeatureCollection",
+          "features": []
+        }
+      });
+
+      map.addLayer({ // Add a new layer to the map style: https://docs.mapbox.com/mapbox-gl-js/api/#map#addlayer
+        id: "tilequery-points",
+        type: "circle",
+        source: "tilequery", // Set the layer source
+        paint: {
+          "circle-stroke-color": "black",
+          "circle-stroke-width": { // Set the stroke width of each circle: https://docs.mapbox.com/mapbox-gl-js/style-spec/#paint-circle-circle-stroke-width
+            stops: [
+              [0, 0.1],
+              [18, 3]
+            ],
+            base: 7
+          },
+          "circle-radius": { // Set the radius of each circle, as well as its size at each zoom level: https://docs.mapbox.com/mapbox-gl-js/style-spec/#paint-circle-circle-radius
+            stops: [
+              [12, 5],
+              [22, 180]
+            ],
+            base: 5
+          },
+          "circle-color": [ // Specify the color each circle should be
+            'match', // Use the 'match' expression: https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-match
+            ['get', 'ratio_catg'], // Use the result 'STORE_TYPE' property
+            1, '#DE2D26',
+            2, '#FC9272',
+            3, '#FEE0D2',
+            4, '#FFEDA0',
+            5, '#F0F0F0',
+            6, '#DEEBF7',
+            7, '#9ECAE1',
+            8, '#3182BD',
+            9, '#2B8CBE',
+            '#2B8CBE' // any other store type
+          ]
+        }
+      });
+
+      // Adding Popups on Mouseover
+      var popup = new mapboxgl.Popup; // Initialize a new popup
+
+      map.on('mouseenter', 'tilequery-points', function(e) {
+        map.getCanvas().style.cursor = 'pointer'; // When the cursor enters a feature, set it to a pointer
+
+        var propZone = '<h3>Tax Zone: ' + e.features[0].properties.zoning + '</h3>'; // Tax Zone
+        var propType = '<h4>' + e.features[0].properties.category_code_description + ' Home</h4>'; // Property Type
+        var propValue = '<p>Value: $' + e.features[0].properties.sale_price + '</p>'; // Recent Sale Price
+        var propAssmt = '<p>Assmt: $' + e.features[0].properties.tax_assessment + '</p>'; // Latest Tax Assessment
+        var propRatio = '<p>Assessment is ' + (e.features[0].properties.sales_ratio).toFixed(2) * 100 + '% of the market value</p>'; // Latest Tax Assessment
+        var obj = JSON.parse(e.features[0].properties.tilequery); // Get the feature's tilequery object (https://docs.mapbox.com/api/maps/#response-retrieve-features-from-vector-tiles)
+        var distance = '<p>' + (obj.distance / 1609.344).toFixed(2) + ' mi. from location' + '</p>'; // Take the distance property, convert it to miles, and truncate it at 2 decimal places
+
+        var lon = e.features[0].properties.lng;
+        var lat = e.features[0].properties.lat;
+        var coordinates = new mapboxgl.LngLat(lon, lat); // Create a new LngLat object (https://docs.mapbox.com/mapbox-gl-js/api/#lnglatlike)
+        var content = propZone + propType + propValue + propAssmt + propRatio + distance; // All the HTML elements
+
+        popup.setLngLat(coordinates) // Set the popup at the given coordinates
+          .setHTML(content) // Set the popup contents equal to the HTML elements you created
+          .addTo(map); // Add the popup to the map
+      })
+
+      map.on('mouseleave', 'tilequery-points', function() {
+        map.getCanvas().style.cursor = ''; // Reset the cursor when it leaves the point
+        popup.remove(); // Remove the popup when the cursor leaves the point
+      });
+
     });
 
   </script>
