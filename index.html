@@ -58,8 +58,20 @@
 
     geocoder.on('result', function(data) { // When the geocoder returns a result
       var point = data.result.center; // Capture the result coordinates
+      var tileset = 'darshansumant.0sw6tfov'; // the ID of the tileset created earlier
+      var radius = 1609; // 1609 meters is roughly equal to one mile
+      var limit = 50; // The maximum amount of results to return
+      var query = 'https://api.mapbox.com/v4/' + tileset + '/tilequery/' + point[0] + ',' + point[1] + '.json?radius=' + radius + '&limit= ' + limit + ' &access_token=' + mapboxgl.accessToken;
 
         marker.setLngLat(point).addTo(map); // Add the marker to the map at the result coordinates
+
+        $.ajax({
+          method: 'GET',
+          url: query,
+        }).done(function(data) {
+          console.log(data);
+          // Code from the next step will go here
+        })
 
     });
   });
